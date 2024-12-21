@@ -1,0 +1,101 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\clion_project.dir\app\Application.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Character.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Double.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Float.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Integer.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Long.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Object.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\Short.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\base_type\String.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\entity\util\UuidGenerator.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractFilterReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractFilterWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\AbstractWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\BufferedInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\BufferedOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\BufferedReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\BufferedWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\ByteArrayInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\ByteArrayOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\CharArrayReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\CharArrayWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\Console.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\File.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\FileInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\FileOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\FilterInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\FilterOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\FilterReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\InputStreamReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\OutputStreamWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PipedInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PipedOutputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PipedReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PipedWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PrintStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PushbackInputStream.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\PushbackReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\StringReader.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\StringWriter.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\io\serialize\JsonSerializer.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\math\MathUtil.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\net\InetAddress.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\net\URI.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\thread\SpinlockMutex.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\thread\ThreadPool.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\time\Date.cpp.obj: dyndep
+
+build CMakeFiles\clion_project.dir\common\time\SimpleDateFormatter.cpp.obj: dyndep
+

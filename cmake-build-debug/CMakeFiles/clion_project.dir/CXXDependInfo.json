@@ -1,0 +1,24 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/Development-cache/clion_project/cmake-build-debug",
+	"dir-cur-src" : "D:/Development-cache/clion_project",
+	"dir-top-bld" : "D:/Development-cache/clion_project/cmake-build-debug",
+	"dir-top-src" : "D:/Development-cache/clion_project",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\Development-cache\\clion_project\\common",
+		"D:\\Development-cache\\clion_project\\app",
+		"D:\\Development-cache\\clion_project\\ci",
+		"C:\\Users\\ethereal\\.vcpkg-clion\\vcpkg\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Development-cache/clion_project/cmake-build-debug/CMakeFiles/clion_project.dir"
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\clion_project.dir\\common\\io\\StringWriter.cpp.obj",
+            "outputs": [
+                "D:\\Development-cache\\clion_project\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\clion_project.dir\\common\\io\\StringWriter.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
